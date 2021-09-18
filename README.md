@@ -8,7 +8,7 @@ Acabo de sumergirme en esta aventura con muchas ganas y mucha ilusión.
 
 Mi experiencia, de momento, no tiene relación con este mundo , después de 13 años de experiencia laboral he pasado por distintos sectores:
 
-## Finanzas
+## Finanzas:
 Financiaciones, inversiones, seguros... 
 
 ## Legal
