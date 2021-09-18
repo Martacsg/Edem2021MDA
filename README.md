@@ -6,7 +6,7 @@ Acabo de sumergirme en esta aventura con muchas ganas y mucha ilusión.
 
 # ¿De dónde vengo?
 
-Mi experiencia hasta la fecha no tiene relación con este mundo (de momento), después de 13 años de experiencia laboral he pasado por distintos sectores:
+Mi experiencia, de momento, no tiene relación con este mundo , después de 13 años de experiencia laboral he pasado por distintos sectores:
 
 ## Finanzas
 Financiaciones, inversiones, seguros... Ese
