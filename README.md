@@ -1,5 +1,5 @@
 # Edem2021MDA
-# Hola mundo!
+# ¡Hola mundo!
 Soy Marta Castillo, estudiante de la 3ª edición del Master en Data Analitics para empresa en EDEM. 
 Acabo de sumergirme en esta aventura con muchas ganas y mucha ilusión. 
 
@@ -9,7 +9,7 @@ Acabo de sumergirme en esta aventura con muchas ganas y mucha ilusión.
 Mi experiencia, de momento, no tiene relación con este mundo , después de 13 años de experiencia laboral he pasado por distintos sectores:
 
 ## Finanzas
-Financiaciones, inversiones, seguros... Ese
+Financiaciones, inversiones, seguros... 
 
 ## Legal
 
